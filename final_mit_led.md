@@ -75,12 +75,12 @@ while True:
                 time.sleep(0.5)
                 print(seq)
 ```
-Füge deinen Code bei den Feldern wo steht Deine_1-6_Zahl (Zeile 41 und 44 in Thonny)
-Speicher nun den Python Code mit dem namen **main.py**. (Mit diesem namen, wird der Code automatisch beim einstecken ausgeführt.)
-Du kannst nun den USB Stecker aus deinem PC rausstecken und beim 12v Netzteil in den USB Stecker reinstecken.
-Jetzt kannst du deine Truhe entsperren...
-... _ _ _ _ _ _ #
-... gebe deinen 6 stelligen Code ein und drücke die "#".
-Gibst du den Code 3 mal Falsch ein, ist die Truhe für 60 Sekunden gesperrt!
-Noch Fragen? **moderatorps@gmail.com**
+Füge deinen Code bei den Feldern wo steht Deine_1-6_Zahl (Zeile 41 und 44 in Thonny)<br>
+Speicher nun den Python Code mit dem namen **main.py**. (Mit diesem namen, wird der Code automatisch beim einstecken ausgeführt.)<br>
+Du kannst nun den USB Stecker aus deinem PC rausstecken und beim 12v Netzteil in den USB Stecker reinstecken.<br>
+Jetzt kannst du deine Truhe entsperren...<br>
+... _ _ _ _ _ _ #<br>
+... gebe deinen 6 stelligen Code ein und drücke die "#".<br>
+Gibst du den Code 3 mal Falsch ein, ist die Truhe für 60 Sekunden gesperrt!<br>
+Noch Fragen? **moderatorps@gmail.com**<br>
 ## Viel Spaß!

@@ -48,4 +48,8 @@ Stecke als erstes den Pico in das Breadboard:<br>
 Schneide ebenfalls ein Loch für das Kabel. (blau markiert)
 ## 5. Keypad
 Klebe das Keypad vorne auf die Kiste und schneide wieder ein loch für diese Kabel hinter dem Keypad. Bild: <br>
-![alt text](5_keypadaufbox.png)
+![alt text](5_keypadaufbox.png)<br>
+Stecke nun das Keypad an:<br>
+![alt text](5_keypadanstecken.png)<br>
+Erstelle in Thonny nun eine neue Datei. (Falls noch keine angezeigt wird) <br>
+Füge diesen Code ein:

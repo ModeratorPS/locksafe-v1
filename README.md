@@ -130,7 +130,7 @@ Das einzige, was du machen musst ist, ...<br>
 **Anstecken:**<br>
 > **Warning**<br>
 > Lass das Keypad, Relais und den Motor und so weiter angesteckt! Ich habe es bei der Abbildung ausgeblendet, da ihr es schon eingebaut habt.<br>
-> ![alt text](7_anstecken.png)
+> ![alt text](7_steckplan.png)
 ##### Code:
 ```
 .

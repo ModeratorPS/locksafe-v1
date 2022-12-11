@@ -133,7 +133,31 @@ Das einzige, was du machen musst ist, ...<br>
 > ![alt text](7_steckplan.png)
 ##### Code:
 ```
-.
+import board
+import keypad
+import time
+import digitalio
+ 
+# LED setup.
+led1 = digitalio.DigitalInOut(board.GP17)
+led1.direction = digitalio.Direction.OUTPUT
+
+#LED auf dem Pico, wird aktiviert um zu sehen, dass das Programm läuft
+led = digitalio.DigitalInOut(board.GP25)
+led.direction = digitalio.Direction.OUTPUT
+
+#Dauerschleife
+while True:
+    led.value = True
+    led1.value = True
+    time.sleep(2)
+    led1.value = False
+    time.sleep(2)
 ```
 Speicher nun den Python Code mit dem namen **led_test.py**.
 Führe nun den Code mit dem Pfeil aus!
+## 8. Alles zusammenfassen
+> **Note**<br>
+> Wähle aus, um den Finalen code zu erhalten:
+> - [Mit LED](final_mit_led.md)
+> - [Ohne LED](final_ohne_led.md)

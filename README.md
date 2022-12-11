@@ -15,4 +15,5 @@ Was für Funktionen hat die LockSafe Truhe?
   <li>Beim zu oft falsch eingeben, die Truhe für 60 Sekunden sperren.</li>
   <li>Deine Geheimnisse in der Truhe verschließen</li>
   <li>und viele weitere Funktionen...</li>
-</ul>
+</ul><br>
+## 2. Material

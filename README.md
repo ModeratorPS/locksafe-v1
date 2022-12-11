@@ -16,4 +16,4 @@ Was für Funktionen hat die LockSafe Truhe?
   <li>Deine Geheimnisse in der Truhe verschließen</li>
   <li>und viele weitere Funktionen...</li>
 </ul><br>
-## 2. Material
+### 2. Material

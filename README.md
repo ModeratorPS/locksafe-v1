@@ -89,7 +89,7 @@ while True:
 Speicher nun den Python Code mit dem namen **keypad_test.py**.
 Führe nun den Code mit dem Pfeil aus!
 ## 6. Relais und Motor
-**Einbauen**<br>
+**Einbauen:**<br>
 1.Loch vorne in die Kiste wo der Motor reinklackt<br>
 2.Motor an die Decke in Richtung vorne ranschrauben<br>
 3.Relais mit Tesa neben Pico kleben<br><br>
@@ -122,3 +122,7 @@ while True:
 ```
 Speicher nun den Python Code mit dem namen **relais_test.py**.
 Führe nun den Code mit dem Pfeil aus!
+## 7. LED (dieser Schritt kann übersprungen werden, wenn du keine LED einbauen möchtest)
+**Einbauen:**<br>
+Das einzige, was du machen musst ist, ...<br>
+...

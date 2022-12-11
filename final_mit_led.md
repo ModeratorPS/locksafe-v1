@@ -41,10 +41,10 @@ while True:
         if event.pressed:
             print(tastenMap[event.key_number])
             if(tastenMap[event.key_number] == "#"):
-                if(seq == ['1', '2', '3', '4', '5', '6']):
+                if(seq == ['Deine_1_Zahl', 'Deine_2_Zahl', 'Deine_3_Zahl', 'Deine_4_Zahl', 'Deine_5_Zahl', 'Deine_6_Zahl']):
                    relais.value = True
                    wrongs = 0
-                elif(seq == ['#', '1', '2', '3', '4', '5', '6']):
+                elif(seq == ['#', 'Deine_1_Zahl', 'Deine_2_Zahl', 'Deine_3_Zahl', 'Deine_4_Zahl', 'Deine_5_Zahl', 'Deine_6_Zahl']):
                    relais.value = True
                    wrongs = 0
                 elif(seq == ['#']):

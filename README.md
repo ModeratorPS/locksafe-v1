@@ -125,4 +125,15 @@ Führe nun den Code mit dem Pfeil aus!
 ## 7. LED (dieser Schritt kann übersprungen werden, wenn du keine LED einbauen möchtest)
 **Einbauen:**<br>
 Das einzige, was du machen musst ist, ...<br>
-...
+...ein loch neben dem Keypad schneiden.<br>
+...die LED durchstecken.<br>
+**Anstecken:**<br>
+> **Warning**<br>
+> Lass das Keypad, Relais und den Motor und so weiter angesteckt! Ich habe es bei der Abbildung ausgeblendet, da ihr es schon eingebaut habt.<br>
+> ![alt text](7_anstecken.png)
+##### Code:
+```
+.
+```
+Speicher nun den Python Code mit dem namen **led_test.py**.
+Führe nun den Code mit dem Pfeil aus!

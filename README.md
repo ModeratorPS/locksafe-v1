@@ -44,3 +44,4 @@ Sollte unten in der Konsole nicht stehen, dass das Gerät gefunden wurde, klicke
 Stecke als erstes den Pico in das Breadboard:
 ![alt text](https://www.okdo.com/de/wp-content/uploads/sites/7/2021/12/breadford-for-raspberry-pi-pico-SKU00089-Image-2.jpg?fit=1600%2C1188)
 Klebe dieses (Grün markiert) nun mit dem JBL Stecker (Rot markiert) nach unter in die Kiste:
+![alt text](4.KisteBild.png)

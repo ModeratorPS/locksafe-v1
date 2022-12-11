@@ -55,6 +55,7 @@ while True:
 ```
 Füge deinen Code bei den Feldern wo steht Deine_1-6_Zahl (Zeile 36 und 41 in Thonny)
 Speicher nun den Python Code mit dem namen **main.py**. (Mit diesem namen, wird der Code automatisch beim einstecken ausgeführt.)
+Du kannst nun den USB Stecker aus deinem PC rausstecken und beim 12v Netzteil in den USB Stecker reinstecken.
 Jetzt kannst du deine Truhe entsperren...
 ... _ _ _ _ _ _ #
 ... gebe deinen 6 stelligen Code ein und drücke die "#".

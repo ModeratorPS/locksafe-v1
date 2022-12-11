@@ -47,6 +47,7 @@ Stecke als erstes den Pico in das Breadboard:<br>
 ![alt text](4_KisteBild.png)
 Schneide ebenfalls ein Loch für das Kabel. (blau markiert)
 ## 5. Keypad
+Stelle als erstes beim Netzteil 12v auf der Rückkseite ein.<br>
 Klebe das Keypad vorne auf die Kiste und schneide wieder ein loch für diese Kabel hinter dem Keypad. Bild: <br>
 ![alt text](5_keypadaufbox.png)<br>
 Stecke nun das Keypad an:<br>

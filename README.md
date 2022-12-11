@@ -98,3 +98,27 @@ Führe nun den Code mit dem Pfeil aus!
 > Lass das Keypad angesteckt! Ich habe es bei der Abbildung ausgeblendet, da ihr es schon eingebaut habt.<br>
 > ![alt text](6_anstecken.png)
 ##### Code:
+```
+import board
+import keypad
+import time
+import digitalio
+
+#Signalpin der mit dem Relais verbunden ist
+relais = digitalio.DigitalInOut(board.GP0)
+relais.direction = digitalio.Direction.OUTPUT
+
+#LED auf dem Pico, wird aktiviert um zu sehen, dass das Programm läuft
+led = digitalio.DigitalInOut(board.GP25)
+led.direction = digitalio.Direction.OUTPUT
+
+#Dauerschleife
+while True:
+    led.value = True
+    relais.value = True
+    time.sleep(2)
+    relais.value = False
+    time.sleep(2)
+```
+Speicher nun den Python Code mit dem namen **relais_test.py**.
+Führe nun den Code mit dem Pfeil aus!

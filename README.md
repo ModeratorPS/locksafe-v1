@@ -92,7 +92,7 @@ Führe nun den Code mit dem Pfeil aus!
 **Einbauen**<br>
 1.Loch vorne in die Kiste wo der Motor reinklackt<br>
 2.Motor an die Decke in Richtung vorne ranschrauben<br>
-3.Relais mit Tesa neben Pico kleben<br>
+3.Relais mit Tesa neben Pico kleben<br><br>
 **Verbinden:**<br>
 > **Warning**<br>
 > Lass das Keypad angesteckt! Ich habe es bei der Abbildung ausgeblendet, da ihr es schon eingebaut habt.<br>

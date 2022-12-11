@@ -81,6 +81,7 @@ Du kannst nun den USB Stecker aus deinem PC rausstecken und beim 12v Netzteil in
 Jetzt kannst du deine Truhe entsperren...<br>
 ... _ _ _ _ _ _ #<br>
 ... gebe deinen 6 stelligen Code ein und drücke die "#".<br>
+...drücke "Stern" um wieder zu verschließen<br>
 Gibst du den Code 3 mal Falsch ein, ist die Truhe für 60 Sekunden gesperrt!<br>
 Noch Fragen? **moderatorps@gmail.com**<br>
 ## Viel Spaß!

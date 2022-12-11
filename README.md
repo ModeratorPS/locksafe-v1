@@ -30,13 +30,11 @@ Nun kommen wir zum Material. Ich habe dir hier unter eine Liste mit Produkten er
 - [220 Ohm Wiederstand](https://www.amazon.de/Metallfilm-Fest-Durchgangsloch-widerstände-Strombegrenzung-Rohs-zertifiziert/dp/B08QRXLKZQ/ref=sr_1_3_sspa?keywords=220+Ohm+Widerstand&qid=1670753216&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 - [LED](https://www.reichelt.de/led-5-mm-bedrahtet-gruen-110-mcd-22--led-5mm-gn-p10232.html?PROVID=2788&gclid=Cj0KCQiAnNacBhDvARIsABnDa691HgcaGFhhWA0Ui6jMinj2Y0J1jq9og1Tg4IVw1qHuxhXOjJP_KiIaAjaOEALw_wcB)
 ## 3. Pico und Thonny einrichten
+### 3.1 Pico
 Als erstes musst du die Software auf den Raspberry Pico installieren. Da Python zu groß ist, verwenden wir Circuitpython. Halte die Taste Bootsel (welche sich auf dem Board vom Pico befindet) gedrückt und stecke nun den Pico mit dem JBL Ladekabel an deinen PC. **Taste nicht loslassen, bis der Pico an deinem PC angezeigt wird**. (wie ein USB-Stick)
 > **Warning**<br>
 > Öffne keine der Dateien, die sich auf dem Pico befinden.
-> Führe nun folgende Schritte aus
-- Besuche nun [diese](https://circuitpython.org/board/raspberry_pi_pico/) Website und lade dir die Datei herunter.
-- Wenn der Download abgeschlossen ist, lege die Datei auf den Raspberry Pico.
-- Der Raspberry Pico wirft sich dann automatisch aus und wird nicht mehr angezeigt.
-- Stecke den Pico aus und wieder rein.
+### 3.2 Thonny
+Besuche nun [diese](https://circuitpython.org/board/raspberry_pi_pico/) Website und lade dir die Datei herunter. Dan der Download abgeschlossen ist, lege die Datei auf den Raspberry Pico. er Raspberry Pico wirft sich dann automatisch aus und wird nicht mehr angezeigt. Secke den Pico aus und wieder rein.
 - Dann sollte er den namen Circuitpython besitzen.
 <br>Ha

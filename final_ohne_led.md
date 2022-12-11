@@ -53,7 +53,7 @@ while True:
                 time.sleep(0.5)
                 print(seq)
 ```
-Füge deinen Code bei den Feldern wo steht Deine_1-6_Zahl (Zeile 36 und 41 in Thonny)<br>
+Füge deinen Code bei den Feldern wo steht Deine_1-6_Zahl (Zeile 36 und 38 in Thonny)<br>
 Speicher nun den Python Code mit dem namen **main.py**. (Mit diesem namen, wird der Code automatisch beim einstecken ausgeführt.)<br>
 Du kannst nun den USB Stecker aus deinem PC rausstecken und beim 12v Netzteil in den USB Stecker reinstecken.<br>
 Jetzt kannst du deine Truhe entsperren...<br>

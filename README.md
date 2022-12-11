@@ -89,11 +89,11 @@ while True:
 Speicher nun den Python Code mit dem namen **keypad_test.py**.
 Führe nun den Code mit dem Pfeil aus!
 ## 6. Relais und Motor
-**Einbauen**
-1.Loch vorne in die Kiste wo der Motor reinklackt
-2.Motor an die Decke in Richtung vorne ranschrauben
-3.Relais mit Tesa neben Pico kleben
-<br>**Verbinden:**<br>
+**Einbauen**<br>
+1.Loch vorne in die Kiste wo der Motor reinklackt<br>
+2.Motor an die Decke in Richtung vorne ranschrauben<br>
+3.Relais mit Tesa neben Pico kleben<br>
+**Verbinden:**<br>
 > **Warning**<br>
 > Lass das Keypad angesteckt! Ich habe es bei der Abbildung ausgeblendet, da ihr es schon eingebaut habt.<br>
 > ![alt text](6_anstecken.png)<br>

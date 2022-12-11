@@ -95,5 +95,5 @@ Führe nun den Code mit dem Pfeil aus!
 - Relais mit Tesa neben Pico kleben
 <br>**Verbinden:**<br>
 > **Warning**<br>
-> Lass das Keypad angesteckt! Ich habe es bei der Abbildung ausgeblendet, da ihr es schon eingebaut habt.
-![alt text](6_anstecken.png)<br>
+> Lass das Keypad angesteckt! Ich habe es bei der Abbildung ausgeblendet, da ihr es schon eingebaut habt.<br>
+> ![alt text](6_anstecken.png)<br>

@@ -32,5 +32,11 @@ Nun kommen wir zum Material. Ich habe dir hier unter eine Liste mit Produkten er
 ## 3. Pico und Thonny einrichten
 Als erstes musst du die Software auf den Raspberry Pico installieren. Da Python zu groß ist, verwenden wir Circuitpython. Halte die Taste Bootsel (welche sich auf dem Board vom Pico befindet) gedrückt und stecke nun den Pico mit dem JBL Ladekabel an deinen PC. **Taste nicht loslassen, bis der Pico an deinem PC angezeigt wird**. (wie ein USB-Stick)
 > **Warning**<br>
-> Öffne keine der Dateien, die sich auf dem Pico befinden.<br>
-Besuche nun [diese](https://circuitpython.org/board/raspberry_pi_pico/) Website und lade dir die Datei herunter. Wenn der Download abgeschlossen ist, lege die Datei auf den Rasp
+> Öffne keine der Dateien, die sich auf dem Pico befinden.
+> Führe nun folgende Schritte aus
+- Besuche nun [diese](https://circuitpython.org/board/raspberry_pi_pico/) Website und lade dir die Datei herunter.
+- Wenn der Download abgeschlossen ist, lege die Datei auf den Raspberry Pico.
+- Der Raspberry Pico wirft sich dann automatisch aus und wird nicht mehr angezeigt.
+- Stecke den Pico aus und wieder rein.
+- Dann sollte er den namen Circuitpython besitzen.
+<br>Ha

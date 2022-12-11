@@ -53,3 +53,40 @@ Stecke nun das Keypad an:<br>
 ![alt text](5_keypadanstecken.png)<br>
 Erstelle in Thonny nun eine neue Datei. (Falls noch keine angezeigt wird) <br>
 Füge diesen Code ein:
+´´´
+import board
+import keypad
+import time
+import digitalio
+
+#Keypad genutzten Pins (GP Art)
+rowPins = (board.GP10, board.GP11, board.GP12, board.GP13)
+columnPins = (board.GP14, board.GP15, board.GP16)
+
+#keypad Matrix erstellen
+keypadMatrix = keypad.KeyMatrix(rowPins, columnPins)
+
+#Tastenzuweisung
+tastenMap = { 0: "1", 1: "2", 2: "3", 3: "4", 4: "5", 5: "6", 6: "7", 7: "8",
+              8: "9", 9: "*", 10: "0", 11: "#" }
+
+#LED auf dem Pico, wird aktiviert um zu sehen, dass das Programm läuft
+led = digitalio.DigitalInOut(board.GP25)
+led.direction = digitalio.Direction.OUTPUT
+
+#Info
+print("Drücke eine Taste!")
+
+#Dauerschleife
+while True:
+    led.value = True
+    event = keypadMatrix.events.get()
+    if event:
+        if event.pressed:
+            print(tastenMap[event.key_number])
+            time.sleep(0.5)
+´´´
+Speicher nun den Python Code mit dem namen
+> keypad_test.py
+<br>Führe nun den Code mit dem Pfeil aus!
+## 6. Relais und Motor

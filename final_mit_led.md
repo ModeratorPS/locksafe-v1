@@ -75,7 +75,7 @@ while True:
                 time.sleep(0.5)
                 print(seq)
 ```
-Füge deinen Code bei den Feldern wo steht Deine_1-6_Zahl (Zeile 41 und 44)
+Füge deinen Code bei den Feldern wo steht Deine_1-6_Zahl (Zeile 41 und 44 in Thonny)
 Speicher nun den Python Code mit dem namen **main.py**. (Mit diesem namen, wird der Code automatisch beim einstecken ausgeführt.)
 Jetzt kannst du deine Truhe entsperren...
 ... _ _ _ _ _ _ #

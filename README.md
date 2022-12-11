@@ -42,7 +42,7 @@ Sollte unten in der Konsole nicht stehen, dass das Gerät gefunden wurde, klicke
 > Sollte trotzdem noch ein Fehler auftauchen, kontaktiere mich unter **moderatorps@gmail.com**.
 ## 4. Pico in Kiste einbauen
 Stecke als erstes den Pico in das Breadboard:<br>
-![alt text](pico.png)
+![alt text](picobild.png)
 <br>Klebe das Breadboard (grün markiert) mit dem JBL Stecker (rot markiert) nach unter in die Kiste:<br>
 ![alt text](4_KisteBild.png)
 Schneide ebenfalls ein Loch für das Kabel. (blau markiert)

@@ -42,7 +42,7 @@ Sollte unten in der Konsole nicht stehen, dass das Gerät gefunden wurde, klicke
 > Sollte trotzdem noch ein Fehler auftauchen, kontaktiere mich unter **moderatorps@gmail.com**.
 ## 4. Pico in Kiste einbauen
 Stecke als erstes den Pico in das Breadboard:<br>
-![alt text](https://www.okdo.com/de/wp-content/uploads/sites/7/2021/12/breadford-for-raspberry-pi-pico-SKU00089-Image-2.jpg?fit=250%2C1188)
+![alt text](pico.png)
 <br>Klebe das Breadboard (grün markiert) mit dem JBL Stecker (rot markiert) nach unter in die Kiste:<br>
 ![alt text](4_KisteBild.png)
 Schneide ebenfalls ein Loch für das Kabel. (blau markiert)

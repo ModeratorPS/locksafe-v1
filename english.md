@@ -36,7 +36,7 @@ First you have to install the software on the Raspberry Pico. Because Python is 
 > Do not open any of the files that are on the Pico.
 ### 3.2 Load Pico software
 Now visit [this](https://circuitpython.org/board/raspberry_pi_pico/) website and download the file. When the download is complete, put the file on the Raspberry Pico. The Raspberry Pico then ejects itself automatically and is no longer displayed. Unplug the Pico and plug it back in. Then it should have the name Circuitpython.<br>
-### 3.3 Tony
+### 3.3 Thonny
 Now visit [this](https://thonny.org) page and download the program. Run the file and open it.<br>
 If the console below does not say that the device was found, click Run -> Configure the interpreter -> Type: CircuitPython (generic) off in the menu.
 > If you still get an error, contact me at **moderatorps@gmail.com**.

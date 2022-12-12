@@ -22,7 +22,7 @@ Now we come to the material. I have created a list of products that we need for 
 - [Keypad 3x4](https://www.reichelt.de/entwicklerboards-folientastatur-4-x-3-ziffern-debo-tast-4x3-p224223.html?&trstct=vrt_pdn&nbc=1)
 - [connecting cable](https://www.amazon.de/Female-Female-Male-Female-Male-Male-Steckbrücken-Drahtbrücken-bunt/dp/B01EV70C78/ref=asc_df_B01EV70C78/?tag=googshopde-21&linkCode=df0&hvadid=310491639325&hvpos=&hvnetw=g&hvrand=11461513820173354466&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042442&hvtargid=pla-362913641420&psc=1&th=1&psc=1&tag=&ref=&adgrpid=59900935617&hvpone=&hvptwo=&hvadid=310491639325&hvpos=&hvnetw=g&hvrand=11461513820173354466&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042442&hvtargid=pla-362913641420)
 - [plug-in board](https://www.kaufland.de/product/429289378/?kwd&source=pla&sid=41790452&gclid=Cj0KCQiAnNacBhDvARIsABnDa6-gY4RCjDM2pLt6dpFGdofF5kMT8Iouvvrn-3orQxaCjP3QdQzAJzkaAtBCEALw_wcB)
-- Holz-Kiste mit flachem Deckel
+- Wooden box with flat lid
 - [Relay](https://www.reichelt.de/entwicklerboards-relais-modul-5-v-srd-05vdc-sl-c-debo-relay-5v-p239148.html?CCOUNTRY=445&LANGUAGE=de&&r=1)
 - [Lock](https://www.amazon.de/gp/product/B01N650528/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
 > **Note**<br>

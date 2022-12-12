@@ -4,4 +4,3 @@
 🇬🇧 Please select your language:
 - [German | Deutsch](deutsch.md)
 - [English | Englisch](english.md)
-- [] Text

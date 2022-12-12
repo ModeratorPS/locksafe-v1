@@ -160,5 +160,5 @@ Führe nun den Code mit dem Pfeil aus!
 ## 8. Alles zusammenfassen
 > **Note**<br>
 > Wähle aus, um den Finalen code zu erhalten:
-> - [Mit LED](final_mit_led.md)
-> - [Ohne LED](final_ohne_led.md)
+> - [Mit LED](deutsch_final_mit_led.md)
+> - [Ohne LED](deutsch_final_ohne_led.md)

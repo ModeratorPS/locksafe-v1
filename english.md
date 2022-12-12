@@ -97,7 +97,7 @@ Now run the code with the arrow!
 **Connect:**<br>
 > **Warning**<br>
 > Leave the keypad plugged in! I've hidden it in the image because you've already installed it.<br>
-> ![alt text](6_pin.png)
+> ![alt text](6_anstecken.png)
 ##### code:
 ```
 import board

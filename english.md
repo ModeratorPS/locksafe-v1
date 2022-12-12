@@ -16,19 +16,19 @@ This guide will show you how to build your own chest secured with code. In addit
 Now we come to the material. I have created a list of products that we need for you here below.
 > **Note**<br>
 > You may already own a product. Therefore, only buy what you need.
-- [Raspberry Pico](https://www.reichelt.de/raspberry-pi-pico-rp2040-cortex-m0-microusb-header-rasp-pi-pico-h-p305824.html?&trstct=vrt_pdn&nbc=1) => IMPORTANT: Order with pin headers
-- [12v plug with USB and DC plug](https://www.amazon.de/Zolt-Universal-USB-Anschluss-DC-Plugin-Haushaltselektronik/dp/B0932YBT9X/ref=asc_df_B0932YBT9X/?tag=googshopde-21&linkCode =df0&hvadid=546566796845&hvpos=&hvnetw=g&hvrand=10075993509748832043&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042442&hvtargid=pla-142940=1ps&c=th&c=1429404)
-- [MicroUSB JBL charging cable](https://www.amazon.de/MicroUSB-Charging-Cable-Compatible-Bluetooth-Speaker-SOUNDGEAR-Speaker/dp/B08XYX2RRX/ref=asc_df_B08XYX2RRX/?tag=googshopde-21&linkCode=df0&hvadid=546482272521&hvpos= &hvnetw=g&hvrand=2394098469561120703&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042442&hvtargid=pla-1573446825248&psc=1&th=1&psc=1)
-- [Keypad 3x4](https://www.reichelt.de/en/developer-boards-membrane-keyboard-4-x-3-digits-debo-tast-4x3-p224223.html?&trstct=vrt_pdn&nbc=1)
-- [connecting cable](https://www.amazon.de/Female-Female-Male-Female-Male-Male-Steckbrücken-Wirebrücken-bunt/dp/B01EV70C78/ref=asc_df_B01EV70C78/?tag=googshopde-21&linkCode=df0&hvadid= &hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042442&hvtargid=pla-362913641420)
+- [Raspberry Pico](https://www.reichelt.de/raspberry-pi-pico-rp2040-cortex-m0-microusb-header-rasp-pi-pico-h-p305824.html?&trstct=vrt_pdn&nbc=1) => WICHTIG: Mit Stiftleisten bestellen
+- [12v plug with USB and DC plug](https://www.amazon.de/Zolt-Universal-USB-Anschluss-DC-Stecker-Haushaltselektronik/dp/B0932YBT9X/ref=asc_df_B0932YBT9X/?tag=googshopde-21&linkCode=df0&hvadid=546566796845&hvpos=&hvnetw=g&hvrand=10075993509748832043&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042442&hvtargid=pla-1428434119420&psc=1&th=1&psc=1)
+- [MicroUSB JBL charging cable](https://www.amazon.de/MicroUSB-Ladekabel-Kompatibel-Bluetooth-Lautsprecher-SOUNDGEAR-Lautsprecher/dp/B08XYX2RRX/ref=asc_df_B08XYX2RRX/?tag=googshopde-21&linkCode=df0&hvadid=546482272521&hvpos=&hvnetw=g&hvrand=2394098469561120703&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042442&hvtargid=pla-1573446825248&psc=1&th=1&psc=1)
+- [Keypad 3x4](https://www.reichelt.de/entwicklerboards-folientastatur-4-x-3-ziffern-debo-tast-4x3-p224223.html?&trstct=vrt_pdn&nbc=1)
+- [connecting cable](https://www.amazon.de/Female-Female-Male-Female-Male-Male-Steckbrücken-Drahtbrücken-bunt/dp/B01EV70C78/ref=asc_df_B01EV70C78/?tag=googshopde-21&linkCode=df0&hvadid=310491639325&hvpos=&hvnetw=g&hvrand=11461513820173354466&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042442&hvtargid=pla-362913641420&psc=1&th=1&psc=1&tag=&ref=&adgrpid=59900935617&hvpone=&hvptwo=&hvadid=310491639325&hvpos=&hvnetw=g&hvrand=11461513820173354466&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042442&hvtargid=pla-362913641420)
 - [plug-in board](https://www.kaufland.de/product/429289378/?kwd&source=pla&sid=41790452&gclid=Cj0KCQiAnNacBhDvARIsABnDa6-gY4RCjDM2pLt6dpFGdofF5kMT8Iouvvrn-3orQxaCjP3QdQzAJzkaAtBCEALw_wcB)
-- Wooden box with flat lid
-- [Relay](https://www.reichelt.de/entwicklungboards-relais-modul-5-v-srd-05vdc-sl-c-debo-relay-5v-p239148.html?CCOUNTRY=445&LANGUAGE=de&&r=1 )
+- Holz-Kiste mit flachem Deckel
+- [Relay](https://www.reichelt.de/entwicklerboards-relais-modul-5-v-srd-05vdc-sl-c-debo-relay-5v-p239148.html?CCOUNTRY=445&LANGUAGE=de&&r=1)
 - [Lock](https://www.amazon.de/gp/product/B01N650528/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
 > **Note**<br>
 > You only have to buy the following products if you want to use an LED:
-- [220 ohms resistance](https://www.amazon.de/Metallfilm-Fest-Through-Hole-resistors-current-limiting-Rohs-certified/dp/B08QRXLKZQ/ref=sr_1_3_sspa?keywords=220+Ohm+Resistance&qid=1670753216&sr=8 -3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
-- [LED](https://www.reichelt.de/led-5-mm-bedrahtet-gruen-110-mcd-22--led-5mm-gn-p10232.html?PROVID=2788&gclid=Cj0KCQiAnNacBhDvARIsABnDa691HgcaGFhhWA0Ui6jMinj2Y0J1jq9og1Tg4IVw1qHux_hXO)
+- [220 Ohms resistance](https://www.amazon.de/Metallfilm-Fest-Durchgangsloch-widerstände-Strombegrenzung-Rohs-zertifiziert/dp/B08QRXLKZQ/ref=sr_1_3_sspa?keywords=220+Ohm+Widerstand&qid=1670753216&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+- [LED](https://www.reichelt.de/led-5-mm-bedrahtet-gruen-110-mcd-22--led-5mm-gn-p10232.html?PROVID=2788&gclid=Cj0KCQiAnNacBhDvARIsABnDa691HgcaGFhhWA0Ui6jMinj2Y0J1jq9og1Tg4IVw1qHuxhXOjJP_KiIaAjaOEALw_wcB)
 ## 3. Set up Pico and Thonny
 ### 3.1 Connect Pico to PC
 First you have to install the software on the Raspberry Pico. Because Python is too big, we use Circuitpython. Hold down the Bootsel button (which is on the Pico's board) and plug the Pico into your PC using the JBL charging cable. **Don't release the button until the pico appears on your PC**. (like a USB stick)
@@ -42,9 +42,9 @@ If the console below does not say that the device was found, click Run -> Config
 > If you still get an error, contact me at **moderatorps@gmail.com**.
 ## 4. Install pico in box
 First, plug the pico into the breadboard:<br>
-![alt text](picoimage.png)
+![alt text](picobild.png)
 <br>Glue the breadboard (marked green) with the JBL connector (marked red) down in the box:<br>
-![alt text](4_BoxImage.png)
+![alt text](4_Boxbild.png)
 Also cut a hole for the cable. (marked blue)
 ## 5.Keypad
 First set the power supply to 12v on the back.<br>

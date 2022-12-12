@@ -46,12 +46,12 @@ First, plug the pico into the breadboard:<br>
 <br>Glue the breadboard (marked green) with the JBL connector (marked red) down in the box:<br>
 ![alt text](4_KisteBild.png)
 Also cut a hole for the cable. (marked blue)
-## 5.Keypad
+## 5. Keypad
 First set the power supply to 12v on the back.<br>
 Glue the keypad to the front of the box and again cut a hole for these cables behind the keypad. Image: <br>
 ![alt text](5_keypadaufbox.png)<br>
 Now plug in the keypad:<br>
-![alt text](pin-keypad.png)<br>
+![alt text](keypad-anstecken.png)<br>
 Now create a new file in Thonny. (If none is already displayed) <br>
 Paste this code:
 ```
@@ -89,10 +89,10 @@ while True:
 ```
 Now save the Python code with the name **keypad_test.py**.
 Now run the code with the arrow!
-## 6. Relay and motor
+## 6. Relay and Lock
 **Install:**<br>
 1.Hole in the front of the box where the engine clicks in<br>
-2. Screw the motor to the ceiling towards the front<br>
+2.Screw the motor to the ceiling towards the front<br>
 3.Glue the relay next to the Pico with Tesa<br><br>
 **Connect:**<br>
 > **Warning**<br>

@@ -49,7 +49,7 @@ while True:
                     wrongs = 0
                  elif(seq == ['#']):
                      time.sleep(0.5)
-                 otherwise:
+                 else:
                     led1.value = True
                     time.sleep(1)
                     led1.value = False
@@ -70,7 +70,7 @@ while True:
                   relay.value = False
                   time.sleep(1)
                   seq = []
-             otherwise:
+             else:
                  seq.append(keyMap[event.key_number])
                  time.sleep(0.5)
                  print(seq)

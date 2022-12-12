@@ -44,7 +44,7 @@ If the console below does not say that the device was found, click Run -> Config
 First, plug the pico into the breadboard:<br>
 ![alt text](picobild.png)
 <br>Glue the breadboard (marked green) with the JBL connector (marked red) down in the box:<br>
-![alt text](4_Boxbild.png)
+![alt text](4_KisteBild.png)
 Also cut a hole for the cable. (marked blue)
 ## 5.Keypad
 First set the power supply to 12v on the back.<br>

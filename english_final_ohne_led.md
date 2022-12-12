@@ -40,7 +40,7 @@ while True:
                     relay.value = True
                  elif(seq == ['#', 'your_1_number', 'your_2_number', 'your_3_number', 'your_4_number', 'your_5_number', 'your_6_number']):
                     relay.value = True
-                 otherwise:
+                 else:
                     time.sleep(0.5)
                  time.sleep(1)
                  seq = []
@@ -48,7 +48,7 @@ while True:
                   relay.value = False
                   time.sleep(1)
                   seq = []
-             otherwise:
+             else:
                  seq.append(keyMap[event.key_number])
                  time.sleep(0.5)
                  print(seq)

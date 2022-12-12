@@ -1,4 +1,4 @@
-#8. Final with LED
+# 8. Final with LED
 Create a new file and paste the code:
 ```
 import board

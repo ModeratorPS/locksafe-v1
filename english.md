@@ -16,7 +16,7 @@ This guide will show you how to build your own chest secured with code. In addit
 Now we come to the material. I have created a list of products that we need for you here below.
 > **Note**<br>
 > You may already own a product. Therefore, only buy what you need.
-- [Raspberry Pico](https://www.reichelt.de/raspberry-pi-pico-rp2040-cortex-m0-microusb-header-rasp-pi-pico-h-p305824.html?&trstct=vrt_pdn&nbc=1) => WICHTIG: Mit Stiftleisten bestellen
+- [Raspberry Pico](https://www.reichelt.de/raspberry-pi-pico-rp2040-cortex-m0-microusb-header-rasp-pi-pico-h-p305824.html?&trstct=vrt_pdn&nbc=1) => Order with headers
 - [12v plug with USB and DC plug](https://www.amazon.de/Zolt-Universal-USB-Anschluss-DC-Stecker-Haushaltselektronik/dp/B0932YBT9X/ref=asc_df_B0932YBT9X/?tag=googshopde-21&linkCode=df0&hvadid=546566796845&hvpos=&hvnetw=g&hvrand=10075993509748832043&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042442&hvtargid=pla-1428434119420&psc=1&th=1&psc=1)
 - [MicroUSB JBL charging cable](https://www.amazon.de/MicroUSB-Ladekabel-Kompatibel-Bluetooth-Lautsprecher-SOUNDGEAR-Lautsprecher/dp/B08XYX2RRX/ref=asc_df_B08XYX2RRX/?tag=googshopde-21&linkCode=df0&hvadid=546482272521&hvpos=&hvnetw=g&hvrand=2394098469561120703&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042442&hvtargid=pla-1573446825248&psc=1&th=1&psc=1)
 - [Keypad 3x4](https://www.reichelt.de/entwicklerboards-folientastatur-4-x-3-ziffern-debo-tast-4x3-p224223.html?&trstct=vrt_pdn&nbc=1)

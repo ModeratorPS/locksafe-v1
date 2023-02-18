@@ -86,7 +86,7 @@ while True:
                 time.sleep(0.5)
                 print(seq)
 ```
-Add your code to the fields where is your_1-6_number (line 41 and 44 in Thonny)<br>
+Add your code to the fields where is your_1-6_number (line 46 and 51 in Thonny)<br>
 Now save the Python code with the name **main.py**. (With this name, the code will be executed automatically when plugged in.)<br>
 You can now unplug the USB plug from your PC and plug it into the USB plug of the 12v power supply.<br>
 Now you can unlock your chest...<br>

@@ -126,12 +126,12 @@ Now run the code with the arrow!
 ## 7. LED (this step can be skipped if you don't want to include an LED)
 **Install:**<br>
 All you have to do is...<br>
-...cut a hole next to the keypad.<br>
-...put the LED through.<br>
+...cut two holes next to the keypad.<br>
+...put the LEDs through. (Red and Green)<br>
 **Plug in:**<br>
 > **Warning**<br>
 > Leave the keypad, relays, motor and so on plugged in! I've hidden it in the image because you've already installed it.<br>
-> ![alt text](7_steckplan.png)
+> ![alt text](led_anstecken.png)
 ##### code:
 ```
 import board

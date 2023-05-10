@@ -5,5 +5,5 @@
 ## 0. Language | Sprache
 🇩🇪 Bitte wähle deine Sprache aus:<br>
 🇬🇧 Please select your language:<br>
-- [German | Deutsch - Download Tutorial](german.pdf)
+- [German | Deutsch - Download Tutorial](https://github.com/ModeratorPS/build-locksafe/raw/main/german.docx)
 - [English | Englisch](english.md)

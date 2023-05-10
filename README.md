@@ -7,5 +7,5 @@
 🇬🇧 Please select your language:<br>
 - [German | Deutsch - Download Tutorial](https://github.com/ModeratorPS/build-locksafe/raw/main/german.docx)
 - [English | Englisch - Download Tutorial](https://github.com/ModeratorPS/build-locksafe/raw/main/english.docx)
-- [English | Englisch - Online Tutorial](deutsch.md)
-- - [English | Englisch - Online Tutorial](english.md)
+- [German | Deutsch - Online Tutorial](deutsch.md)
+- [English | Englisch - Online Tutorial](english.md)

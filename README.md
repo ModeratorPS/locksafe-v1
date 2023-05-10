@@ -4,6 +4,6 @@
 
 ## 0. Language | Sprache
 🇩🇪 Bitte wähle deine Sprache aus:<br>
-🇬🇧 Please select your language:
-- [German | Deutsch](german.pdf)
+🇬🇧 Please select your language:<br>
+- [German | Deutsch - Download Tutorial](german.pdf)
 - [English | Englisch](english.md)

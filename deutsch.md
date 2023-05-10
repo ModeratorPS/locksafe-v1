@@ -1,6 +1,6 @@
 # Ein Locksafe bauen
 ## 1. Vorshow
-Diese Anleitung erklärt dir, wie du eine eigene Truhe baust, die mit Code gesichtert ist. Zusätzlich lernst du dur kleine Tutorialblöcke die Programmiersprache Python kennen.<br>
+Diese Anleitung erklärt dir, wie du eine eigene Truhe baust, die mit Code gesichtert ist. Zusätzlich lernst du die Programmiersprache Python kennen.<br>
 > Du wirst lernen...
 - ...Daten eines Keypads abzurufen.
 - ...einen kleinen Computer einzurichten.
@@ -31,7 +31,7 @@ Nun kommen wir zum Material. Ich habe dir hier unter eine Liste mit Produkten er
 - [LED](https://www.reichelt.de/led-5-mm-bedrahtet-gruen-110-mcd-22--led-5mm-gn-p10232.html?PROVID=2788&gclid=Cj0KCQiAnNacBhDvARIsABnDa691HgcaGFhhWA0Ui6jMinj2Y0J1jq9og1Tg4IVw1qHuxhXOjJP_KiIaAjaOEALw_wcB)
 ## 3. Pico und Thonny einrichten
 ### 3.1 Pico mit dem PC verbinden
-Als erstes musst du die Software auf den Raspberry Pico installieren. Da Python zu groß ist, verwenden wir Circuitpython. Halte die Taste Bootsel (welche sich auf dem Board vom Pico befindet) gedrückt und stecke nun den Pico mit dem JBL Ladekabel an deinen PC. **Taste nicht loslassen, bis der Pico an deinem PC angezeigt wird**. (wie ein USB-Stick)
+Als erstes musst du die Software auf den Raspberry Pico installieren. Da Python zu groß ist, verwenden wir Circuitpython. Halte die Taste Bootsel (welche sich auf dem Board vom Pico befindet) gedrückt und stecke nun den Pico mit dem MicroUSB Ladekabel an deinen PC. **Taste nicht loslassen, bis der Pico an deinem PC angezeigt wird**. (wie ein USB-Stick)
 > **Warning**<br>
 > Öffne keine der Dateien, die sich auf dem Pico befinden.
 ### 3.2 Pico Software laden

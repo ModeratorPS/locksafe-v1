@@ -1,12 +1,12 @@
 # Ein Locksafe bauen
 ## 1. Vorshow
-Diese Anleitung erklärt dir, wie du eine eigene Truhe baust, die mit Code gesichtert ist. Zusätzlich lernst du dur kleine Tutorialblöcke die Programmiersprache Python kennen.<br>
+Diese Anleitung erklärt dir, wie du eine eigene Truhe baust, die mit Code gesichtert ist. Zusätzlich lernst du die Programmiersprache Python kennen.<br>
 > Du wirst lernen...
-- ...Daten eines Keypads abzurufen.
-- ...einen kleinen Computer einzurichten.
-- ...Stromkreise mit einem Relais zu Schalten.
-- ...eine LED anzusteuern.
-- ...und viele weitere Dinge.
+- ... daten eines Keypads abzurufen.
+- ... einen kleinen Computer einzurichten.
+- ... Stromkreise mit einem Relais zu Schalten.
+- ... eine LED anzusteuern.
+- ... und viele weitere Dinge.
 > Was für Funktionen hat die LockSafe Truhe?
 - Du kannst dir einen eigenen 6 stelligen Code überlegen.
 - Beim zu oft falsch eingeben, die Truhe für 60 Sekunden sperren.
